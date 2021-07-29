@@ -1,0 +1,9 @@
+.canvasClass {
+    border: 5px solid rgb(98, 97, 97);
+    display: block;
+    background-color: rgb(47, 44, 44);
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 20px;
+    padding: 10px 10px 10px 10px;
+}
